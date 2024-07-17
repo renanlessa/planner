@@ -1,0 +1,36 @@
+# Logs
+planner-ui/logs
+planner-ui/*.log
+planner-ui/npm-debug.log*
+planner-ui/yarn-debug.log*
+planner-ui/yarn-error.log*
+planner-ui/pnpm-debug.log*
+planner-ui/lerna-debug.log*
+
+planner-ui/node_modules
+planner-ui/dist
+planner-ui/dist-ssr
+planner-ui/*.local
+
+# Editor directories and files
+planner-ui/.vscode/*
+planner-ui/!.vscode/extensions.json
+planner-ui/.idea
+planner-ui/.DS_Store
+planner-ui/*.suo
+planner-ui/*.ntvs*
+planner-ui/*.njsproj
+planner-ui/*.sln
+planner-ui/*.sw?
+
+planner-ui/HELP.md
+planner-ui/target/
+planner-ui/!.mvn/wrapper/maven-wrapper.jar
+planner-ui/!**/src/main/**/target/
+planner-ui/!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+planner-api/.idea
+planner-api/*.iws
+planner-api/*.iml
+planner-api/*.ipr
